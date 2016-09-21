@@ -9,9 +9,10 @@
 <body>
 
 	<br>
-	<a href="home">Home</a>
-	<br>
-	<a href="about">About Us</a> <br>
+	
+	<!-- Grace: the <br> tags have been removed so that they align next to each other -->
+	<a href="home">Home</a>	
+	<a href="about">About Us</a> 
 	<a href="scheduling">Scheduling</a>
 	<h1>Login</h1>
 
